@@ -26,13 +26,13 @@ Obtain an API key from OpenAI and set it in the code where indicated.
 
 Usage:
 
-1.Edit the Code:
+1. Edit the Code:
 - Update the openai_api_key with your OpenAI API credentials.
 - Modify the debate_topic and classes as needed for different debate scenarios.
 
 2. Run the Script:
 - Execute the script using Python:
-pyhon debate_simulator.py
+python debate_simulator.py
 
 - The script will output the arguments from each side of the debate and the final winner.
 
