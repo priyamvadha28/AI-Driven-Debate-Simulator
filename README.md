@@ -14,11 +14,11 @@ OpenAI API key
 
 2. Installation:
 
-Create a virtual environment (optional but recommended):
+- Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-Install the required packages: 
+- Install the required packages: 
 pip install -r requirements.txt
 
 3. Configuration:
